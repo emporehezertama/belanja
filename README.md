@@ -83,7 +83,7 @@ Your submission will be evaluated based on the following criteria:
 
 ## Deadline
 
-You have time until <b>26 May 23:59</b> to finish this task.
+Please submit your solution within seven days of receiving this test.
 
 ## Contact Information
 
