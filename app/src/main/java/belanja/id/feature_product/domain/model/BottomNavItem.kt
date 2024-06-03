@@ -1,7 +1,6 @@
 package belanja.id.feature_product.domain.model
 
 import androidx.navigation.ActivityNavigator
-import belanja.id.R
 
 sealed class BottomNavItem(var icon: Int, var destination: ActivityNavigator.Destination) {
 //    object Home : BottomNavItem(
