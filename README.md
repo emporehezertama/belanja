@@ -5,7 +5,7 @@
   ```bash
   git clone https://github.com/emporehezertama/belanja.git
   ```
-- To connect to the API you need to change the API key in `contants.dart`. You can generate API key at (https://rawg-api.com/api).
+- To connect to the API you need to change the Access Token in `gradle.properties`. You can generate Access Token at (https://api.shopify.com).
 - Sync gradle to install all the dependencies
 - Run the app on your device or emulator in Android Studio
 
