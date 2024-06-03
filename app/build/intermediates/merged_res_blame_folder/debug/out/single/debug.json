@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "belanja.id.app-merged_res-59:/font_poppins_semibold.ttf.flat",
+        "source": "belanja.id.app-main-61:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "belanja.id.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/font_poppins_regular.ttf.flat",
+        "source": "belanja.id.app-main-61:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_artwork.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_artwork.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/font_poppins_medium.ttf.flat",
+        "source": "belanja.id.app-main-61:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_wallet.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_placeholder.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_allert.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_allert.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "belanja.id.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_search.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_filter.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/font_poppin_bold.ttf.flat",
+        "source": "belanja.id.app-main-61:/font/poppin_bold.ttf"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_star.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "belanja.id.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/font_poppins_light.ttf.flat",
+        "source": "belanja.id.app-main-61:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "belanja.id.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_heart_fill.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_heart_fill.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_add.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_chevron_left.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_settings.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_home.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_user.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_joomia_logo.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_joomia_logo.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_heart.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "belanja.id.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "belanja.id.app-merged_res-59:/drawable_ic_basket.xml.flat",
+        "source": "belanja.id.app-main-61:/drawable/ic_basket.xml"
+    }
+]
