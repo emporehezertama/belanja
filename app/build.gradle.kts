@@ -22,6 +22,7 @@ android {
         vectorDrawables {
             useSupportLibrary = true
         }
+        buildConfigField("String", "SHOPIFY_ACCESS_TOKEN", "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")
     }
 
     buildTypes {
